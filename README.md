@@ -98,4 +98,4 @@ This project was developed as part of an academic project to demonstrate practic
 ---
 
 ## 📜 License
-This project is created for educational and demonstration purposes only.
+This project is created for educational and a minor collage web application
