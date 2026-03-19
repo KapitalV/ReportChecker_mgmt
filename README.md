@@ -1,7 +1,7 @@
 # ReportChecker_mgmt
 This project is based on, A easily way to check result of a semester examination of a  university.
 # GPM Secure Academics – Result Checker Web Portal
-
+....
 ## 📌 Project Overview
 GPM Secure Academics is a web-based Result Checker Portal developed to provide students with a fast, simple, and secure way to access their academic results.
 
